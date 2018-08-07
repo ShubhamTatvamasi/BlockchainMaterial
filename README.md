@@ -19,6 +19,16 @@
 * [Berkeley Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 * [IDRBT Paper](http://www.idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf)
 * [Ethereum](https://blockgeeks.com/introduction-to-ethereum-blockchain)
+* [BlockChain Hype vs Reality](https://www.linkedin.com/pulse/blockchain-hype-vs-reality-rohas-nagpal)
+* [What is Blockchain](https://www.youtube.com/watch?v=93E_GzvpMA0)
+* [How Bitcoin works under the hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+* [Blockchain Market](https://www.blockchaintechnews.com/news/global-blockchain-market-to-grow-from-228m-to-54b-within-6-years-study-predicts)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
