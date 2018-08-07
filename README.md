@@ -45,36 +45,53 @@
 * [Blockchain Hype](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
 * [PoW verus PoS](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
 * [What is Monero](https://blockgeeks.com/guides/what-is-monero)
-* []()
-* []()
-* []()
-
-
 
 
 **Use Cases**
 ---
 
+* []()
+
 
 **Advanced**
 ---
+
+* []()
 
 
 **Consortiums and Certifications**
 ---
 
+* []()
+
 
 **Cryptoeconomics**
 ---
+
+* []()
 
 
 **Books Recommendation**
 ---
 
+* []()
 
-**Other Repositories**
+
+**Hashgraph**
 ---
+
+* [Swirlds Hashgraph Consensus Algorithm](http://bit.ly/2zSTqm1)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 **Vitalik Articles**
 ---
+
+* []()
