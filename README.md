@@ -3,13 +3,13 @@
 > Table of Content
 
 1. [Basics](#basics)
-2. [Use Cases](#use-cases)
-3. [Advanced](#advanced)
-4. [Consortiums and Certifications](#consortiums-and-certifications)
-5. [Cryptoeconomics](#cryptoeconomics)
-6. [Books Recommendation](#books-recommendation)
-7. [Hashgraph](#hashgraph)
-8. [Vitalik Articles](#vitalik-articles)
+1. [Use Cases](#use-cases)
+1. [Advanced](#advanced)
+1. [Consortiums and Certifications](#consortiums-and-certifications)
+1. [Cryptoeconomics](#cryptoeconomics)
+1. [Books Recommendation](#books-recommendation)
+1. [Hashgraph](#hashgraph)
+1. [Vitalik Articles](#vitalik-articles)
 
 
 
