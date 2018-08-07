@@ -8,7 +8,7 @@
 4. [Consortiums and Certifications](#consortiums-and-certifications)
 5. [Cryptoeconomics](#cryptoeconomics)
 6. [Books Recommendation](#books-recommendation)
-7. [Other Repositories](#other-repositories)
+7. [Hashgraph](#hashgraph)
 8. [Vitalik Articles](#vitalik-articles)
 
 
