@@ -90,12 +90,17 @@
   * [Can Hashgraph Dethrone Blockchain?](http://bit.ly/2z9wrFk)
   * [Swirlds Hashgraph + CULedger (Credit Union Industry Win vs. IBM Hyperledger)](http://bit.ly/2y96TZD)
   * [$3 Million Seed Round Lead by NEA](http://bit.ly/2zSU7vD)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+  * [TechCrunch Hackathon Recap](http://bit.ly/2hgHjYd)
+  * [Swirlds Seeks to End Financial Attacks](http://bit.ly/2gWPyIH)
+  * [George Samman Interviews Dr. Leemon Baird](http://bit.ly/2gPEMYi)
+* Videos
+  * [Dr. Leemon Baird @ CESC2017 - Why Math Matters](http://bit.ly/2lk8KVA)
+  * [NYC Panel Session @ Assemblage](http://bit.ly/2zqNcgj)
+  * [Hashgraph Security & Performance Comparison @ TechCrunch Disrupt](http://bit.ly/2z7vQ7D)
+  * [Hashgraph: A Simple Explanation Walkthrough](http://bit.ly/2zdC1aD)
+  * [Hashgraph for IoT @ CIS2017](https://youtu.be/UCISttFSoIY)
+  * [Developing on Hashgraph @ CIS2016](https://youtu.be/P7pGpfDTGnA)
+  * [Hashgraph for Identity @ CIS2016](https://youtu.be/rhHfjOqlUv4)
 
 
 **Vitalik Articles**
