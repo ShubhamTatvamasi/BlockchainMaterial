@@ -96,10 +96,16 @@
 * [Malta Use Cases](http://www.transformationworx.com)
 * [Southafrica](https://cointelegraph.com/news/south-african-central-bank-to-start-bitcoin-regulation-experiment)
 * [Use Case in Education](http://blockchain.open.ac.uk)
-* []()
-* []()
-* []()
-* []()
+* [Blockchain Predictions](https://www.linkedin.com/pulse/blockchain-predictions-2018-linas-beli%C5%ABnas)
+* [Authentication Use Case](https://cryptovest.com/news/south-korean-consortium-launches-blockchain-based-authentication-service)
+* [Blockchain based academic certificate](http://rujia.uk/talk/Blockchain%20Technology%20Report%202017.pdf)
+* [Seafood](https://www.forbes.com/sites/alexcapri/2018/02/14/how-blockchain-could-help-end-modern-day-slavery-in-asias-exploitative-seafood-industry/amp)
+* [Pharmaceuticals](http://www.computerweekly.com/news/252436653/Proof-of-concept-shows-blockchain-could-save-lives-in-pharmaceutical-logistics)
+* [Cocacola](https://blockmanity.com/coca-cola-collaborates-emercoin-blockchain-worker-registry)
+* [KYC Use Case](https://blogs.thomsonreuters.com/financial-risk/financial-crime/kyc-using-blockchain-answer-banks)
+* [Medical Records](https://bangaloremirror.indiatimes.com/news/state/manipal-student-uses-blockchain-for-medical-records/articleshow/64860327.cms)
+* [Democracy](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying)
+* [Food Supply Chain](https://www.ibm.com/blogs/blockchain/2018/07/this-summer-fishing-in-finland-means-food-traceability-on-the-menu)
 
 
 **Advanced**
