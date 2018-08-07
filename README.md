@@ -16,6 +16,10 @@
 **Basics**
 ---
 
+* [Berkeley Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
+
+
+
 
 **Use Cases**
 ---
