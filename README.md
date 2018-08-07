@@ -18,6 +18,7 @@
 
 * [Berkeley Paper](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
 * [IDRBT Paper](http://www.idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf)
+* [Ethereum](https://blockgeeks.com/introduction-to-ethereum-blockchain)
 
 
 
