@@ -88,6 +88,11 @@
   * [Dictatorships, Democracy, & Blockchain](http://bit.ly/2z7aYND)
 * Articles & News
   * [Can Hashgraph Dethrone Blockchain?](http://bit.ly/2z9wrFk)
+  * [Swirlds Hashgraph + CULedger (Credit Union Industry Win vs. IBM Hyperledger)](http://bit.ly/2y96TZD)
+  * [$3 Million Seed Round Lead by NEA](http://bit.ly/2zSU7vD)
+* []()
+* []()
+* []()
 * []()
 * []()
 * []()
