@@ -80,13 +80,14 @@
 **Hashgraph**
 ---
 
-* [Whitepapers]
-* [Swirlds Hashgraph Consensus Algorithm](http://bit.ly/2zSTqm1)
-* [How It Works: Detailed Examples](http://bit.ly/2iCO5uV)
-* [Hashgraph Overview](http://bit.ly/2ySfcc8)
-* [Hashgraph & Sybil Attacks](http://bit.ly/2loq1Nu)
-* [Dictatorships, Democracy, & Blockchain](http://bit.ly/2z7aYND)
-* [Can Hashgraph Dethrone Blockchain?](http://bit.ly/2z9wrFk)
+* Whitepapers
+  * [Swirlds Hashgraph Consensus Algorithm](http://bit.ly/2zSTqm1)
+  * [How It Works: Detailed Examples](http://bit.ly/2iCO5uV)
+  * [Hashgraph Overview](http://bit.ly/2ySfcc8)
+  * [Hashgraph & Sybil Attacks](http://bit.ly/2loq1Nu)
+  * [Dictatorships, Democracy, & Blockchain](http://bit.ly/2z7aYND)
+* Articles & News
+  * [Can Hashgraph Dethrone Blockchain?](http://bit.ly/2z9wrFk)
 * []()
 * []()
 * []()
