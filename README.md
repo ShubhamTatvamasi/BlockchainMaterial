@@ -197,7 +197,9 @@
 **Consortiums and Certifications**
 ---
 
-* []()
+* [Crypto Consortium](https://cryptoconsortium.org)
+* [Blockchain Essentials](https://developer.ibm.com/courses/all/blockchain-essentials)
+* [certified blockchain professional expert](https://www.blockchain-council.org/certifications/certified-blockchain-professional-expert/)
 
 
 **Cryptoeconomics**
