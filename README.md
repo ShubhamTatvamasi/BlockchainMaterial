@@ -257,4 +257,10 @@
 **Vitalik Articles**
 ---
 
-* []()
+* [Problem of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship)
+* [Vision Part 1](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology)
+* [Vision Part 2](https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust)
+* [Light Clients](https://blog.ethereum.org/2015/01/10/light-clients-proof-stake)
+* [Super Rationality and DAOs](https://blog.ethereum.org/2015/01/23/superrationality-daos)
+* [Scalability](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs)
+* [Yellow paper](https://github.com/ethereum/yellowpaper)
