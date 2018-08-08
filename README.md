@@ -205,7 +205,14 @@
 **Cryptoeconomics**
 ---
 
-* []()
+* [Discussion Forum](https://www.cryptoeconomicshub.org)
+* [Wisdom Crowds](http://news.mit.edu/2017/algorithm-better-wisdom-crowds-0125)
+* [Token Standard](https://bitcoinmagazine.com/articles/enjin-coin-cto-creates-erc-1155-new-token-standard-ethereum/#1529961907)
+* [Crypto Governance](https://www.coindesk.com/eos-arbitrator-problem-crypto-governance-breakdown-explained)
+* [Economic Limits](http://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)
+* [Mechanism Designs](https://medium.com/secbit-media/mechanism-design-in-cryptoeconomics-6630673b79af)
+* [Token Engineering](https://youtu.be/qCug19q51n4)
+* [Dual Token Economy](https://medium.com/@johnoliver_3495/passive-income-two-token-dual-token-economy-model-security-tokens-and-masternodes-af359c638f4a)
 
 
 **Books Recommendation**
