@@ -218,7 +218,14 @@
 **Books Recommendation**
 ---
 
-* []()
+* [Blockchain Books Repo](https://blockchainbooks.github.io)
+* [Blockchain Revolution](http://www.amazon.in/Blockchain-Revolution-Don-Tapscott/dp/0241237858?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ca8ecae0-84d3-4113-be35-21b83e0cf3a5)
+* Mastering Blockchain by Imran Bashir
+* Bitcoin and Blockchain Security Book by Elli Androulaki and Ghassan Karam
+* Introducing Ethereum and Smart Contracts by Chris Dannen
+* The Undocumented Internals of Bitcoin, Ethereum by Vijay Mukhi
+* Internet of Money by Andreas
+* Bitcoin Standard
 
 
 **Hashgraph**
